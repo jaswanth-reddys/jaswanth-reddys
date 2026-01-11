@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact **I think I am funny**
 
-- 👨‍💻 All of my projects are available at **((https://github.com/jaswanth-reddys/jaswanth-reddys/))**
+- 👨‍💻 All of my projects are available at **https://github.com/jaswanth-reddys/jaswanth-reddys/**
 
 - 📄 Know about my experiences **[https://drive.google.com/file/d/1If8V_xHbhQNSuSMNlowOJDtp04cUJ6Nl/view?usp=sharing](https://drive.google.com/file/d/1If8V_xHbhQNSuSMNlowOJDtp04cUJ6Nl/view?usp=sharing)**
 
