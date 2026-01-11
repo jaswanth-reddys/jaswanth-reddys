@@ -1,18 +1,105 @@
-# 💫 About Me:
-I’m a Computer Science Engineering undergraduate (2026 batch) with a strong interest in Data Science, Machine Learning, and Software Development. I enjoy working with data to uncover insights, build predictive models, and develop practical solutions to real-world problems.<br><br>I have hands-on experience with Python, SQL, Pandas, NumPy, PyTorch, and Power BI, and I’ve worked on projects spanning data analysis, computer vision, and AI-driven applications. My work includes building machine learning models, performing exploratory data analysis (EDA), and creating clear visualizations to support data-driven decisions.<br><br>I’m a continuous learner who enjoys collaborating with teams, writing clean and maintainable code, and improving solutions through iteration. I’m currently seeking internship or entry-level opportunities in Data Science, Data Analytics, or Machine Learning where I can learn, contribute, and grow.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jaswanth-reddy-059a202) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Bobbala chinnolla jaswanth Reddy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jaswanthreddy2028116@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jaswanth-reddys&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jaswanth-reddys&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jaswanth-reddys&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=jaswanth-reddys&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-01-11T07:22:15.377Z",
+  "profile": {
+    "title": "Jaswanth Reddy",
+    "subtitle": "A Computer Science Engineering student passionate about Data Science and Machine Learning",
+    "currentWork": "AI-Chat bot",
+    "currentLearn": "RAG,LLMs,Fine-tuning,",
+    "collaborateOn": "",
+    "helpWith": "",
+    "ama": "",
+    "contact": "jaswanthreddy2028116@gmail.com",
+    "funFact": "I think I am funny",
+    "visitorsBadge": false,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": false,
+    "githubStats": false,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": false,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": false,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://jaswanth-reddy.vercel.app/",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1If8V_xHbhQNSuSMNlowOJDtp04cUJ6Nl/view?usp=sharing"
+  },
+  "social": {
+    "github": "jaswanth-reddys",
+    "dev": "",
+    "linkedin": "jaswanth-reddy-059a202",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "anaconda",
+    "c",
+    "fastapi",
+    "git",
+    "huggingface",
+    "jupyter",
+    "keras",
+    "langchain",
+    "matplotlib",
+    "mysql",
+    "numpy",
+    "ollama",
+    "opencv",
+    "pandas",
+    "python",
+    "pytorch",
+    "scikit_learn",
+    "seaborn",
+    "tensorflow"
+  ]
+}
