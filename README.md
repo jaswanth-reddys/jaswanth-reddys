@@ -1,6 +1,6 @@
 # Hi 👋, I'm Jaswanth Reddy
 
-### A Computer Science Engineering student passionate about Data Science and Machine Learning
+### A Computer Science Engineering student passionate about Data Science, Data Analyst and Machine Learning
 
 - 🔭 I'm currently working on **AI-Chat bot**
 
